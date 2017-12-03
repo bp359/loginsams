@@ -7,7 +7,7 @@ span {
 color:red
 }
 h2 {
-background-color:#FEFFED;
+background-color:##fcffe0;
 text-align:center;
 border-radius:10px 10px 0 0;
 margin:-10px -40px;
@@ -35,9 +35,9 @@ font-family:raleway
 }
 input[type=submit] {
 width:100%;
-background-color:#FFBC00;
+background-color:#5d00ff;
 color:#fff;
-border:2px solid #FFCB00;
+border:2px solid #5d00ff;
 padding:10px;
 font-size:20px;
 cursor:pointer;
